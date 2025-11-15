@@ -1,3 +1,5 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8929007111078745" crossorigin="anonymous"></script>
+
 > 2026届互联网校招&实习信息汇总，欢迎共创。欢迎大家来 [GitHub仓库](https://github.com/namewyf/Campus2026) PR 更新最新信息及勘误
 >
 > **26届暑期实习刚开始，需要大家的帮助来更新仓库，26届想参与维护的同学欢迎加群[1035159665](https://qm.qq.com/q/4gGpdP9uZ2)，群内会更新最新的招聘信息。参与共创的同学，头像将会展示在本项目contributors的列表当中**
