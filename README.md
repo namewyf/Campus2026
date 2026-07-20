@@ -193,3 +193,6 @@
 | 深信服   | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee)                                                  | 2025/3/4 |      |      |
 | 七牛云   | [日常实习](https://campus.qiniu.com/campus/jobs)                                                                          | 2025/3/7 |      |      |
 | 帆软     | [日常实习](https://join.fanruan.com/)                                                                                     | 2025/3/3 |      |      |
+
+
+[ai photo editor](https://pixelcake.app)
